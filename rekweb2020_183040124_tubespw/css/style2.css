@@ -1,0 +1,62 @@
+
+body {
+	background-image: url(../img/gbr4.png);
+}
+
+
+
+.jarak {
+
+margin-top: 80px;
+text-align: center;
+color: white;
+
+
+
+}
+
+.bakround1 {
+	background-image: url(../img/footer_lodyas.png);
+	border: 4px solid white;
+	padding: 20px;
+}
+
+.bakround2 {
+	background-image: url(../img/giphy3.gif);
+	background-size: 800px;
+	border: 4px solid lightgreen;
+	padding: 20px;
+
+}
+.detail {
+	margin: 10px;
+	color: white;
+	background:#000;opacity:0.6;
+	filter:alpha(opacity=40);
+}
+
+table {
+	margin: 10px;
+}
+
+
+.giphyDiamond {
+	position: absolute;
+	width: 100px;
+	right: 500px;
+	top: 100px;
+
+}
+
+.giphyBook {
+	position: absolute;
+	width: 120px;
+	right: 410px;
+	top: 50px;
+
+}
+
+.jarakDetail {
+	
+	margin-top: 20px;
+}

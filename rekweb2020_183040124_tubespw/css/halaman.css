@@ -1,0 +1,70 @@
+
+@media print {
+	.logout,  .navbar, .tambah, .opsi, .iconsosmed {
+	display: none;
+}
+}
+
+body {
+	background-image: url(../img/room.jpg) no-repeat;
+}
+
+.jarak {
+
+margin-top: 100px;
+
+}
+
+
+a {
+	text-decoration: none;
+}
+
+h1	{
+	text-align: center;
+}
+table {
+	text-align: center;
+}
+
+
+/*bagian akhir halaman*/
+footer {
+	position: absolute;
+	width: 100%;
+	height: 200px;
+	margin-bottom: -200px;
+	line-height: 100px;
+	background-color: #333;
+	color: #FFEE9C;
+	font-size: 20px;
+	margin-top: 50px;
+	}
+
+
+/* Follow Sosial Media */
+.iconsosmed img {
+	width: 50px;
+}
+
+.iconsosmed	{
+	background-color: #333;
+}
+
+
+
+/* jenis-jenis font */
+
+.jenisfont {
+	font-family: 'El Messiri', sans-serif;
+}
+
+.jenisfont2 {
+	font-family: 'ZCOOL XiaoWei', serif;
+}
+
+/*Gambar latar belakang footer*/
+
+
+
+

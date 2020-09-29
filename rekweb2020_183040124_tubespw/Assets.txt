@@ -1,0 +1,20 @@
+Referensi & gambar yang dipakai:
+
+1. https://getbootstrap.com/ (Framework)
+2. https://www.pexels.com/ (image)
+3. https://giphy.com/gifs/loop-motion-graphics-techno-xT9IgN8YKRhByRBzMI (gambar2 gif)
+4. https://fonts.google.com/ (font)
+6. https://www.flaticon.com/search? (icon sosial media)
+7. https://www.toptal.com/designers/subtlepatterns/ (patterns background untuk gambar latar)
+8. https://github.com/cferdinandi/smooth-scroll (tutorial agar pergerakan scroll menjadi lembut)
+9. https://codepen.io/ (games)
+10. Video-Video Dari channel Web Programing Unpas
+
+
+
+
+
+
+
+
+@free

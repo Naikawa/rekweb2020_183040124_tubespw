@@ -1,0 +1,40 @@
+
+body {
+	background-image: url(../img/bg_login.jpg);
+}
+
+.jarak {
+
+margin-top: 125px;
+
+}
+
+.bakround1 {
+	background-image: url(../img/gbr1.png);
+	border: 2px solid skyblue;
+	border-right: none;
+	padding: 20px;
+}
+
+.bakround2 {
+	background-image: url(../img/gbr3.png);
+	border: 2px solid salmon;
+	border-left: none;
+	padding: 20px;
+
+}
+
+.bakround3 {
+	background-image: url(../img/gbr6.png);
+	border: 2px solid lightgreen;
+	padding: 20px;
+
+}
+
+.giphyDiamond {
+	position: absolute;
+	width: 100px;
+	right: 500px;
+	top: 100px;
+
+}
